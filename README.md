@@ -13,11 +13,11 @@ This Python script calculates the **final amount after applying a discount** bas
 
 ## 📁 File
 
-- `discount_calculator.py`: Main script for computing the final amount after discount.
+- `discount.py`: Main script for computing the final amount after discount.
 
 ## ▶️ How to Run
 
 Make sure Python 3 is installed, then run:
 
 ```bash
-python discount_calculator.py
+python discount.py
